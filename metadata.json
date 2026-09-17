@@ -1,0 +1,6 @@
+{
+  "name": "Financeiro Refeições - Café e Hamburgueria",
+  "description": "Sistema de gestão financeira e controle de salários para turnos diurno (Café) e noturno (Hamburgueria).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
